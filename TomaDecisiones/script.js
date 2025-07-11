@@ -1,1 +1,0 @@
-console.log("¡script.js está conectado correctamente!");
